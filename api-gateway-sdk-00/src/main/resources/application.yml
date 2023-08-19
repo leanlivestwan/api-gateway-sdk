@@ -1,0 +1,8 @@
+server:
+  port: 8004
+
+api-gateway-sdk:
+  address: http://localhost:8001  # 注册中心；从这里获取接口信息以及完成注册网关操作
+  systemId: api-gateway-sdk-00
+  systemName: 网关sdk测试工程
+  systemRegistry: zookeeper://192.168.1.105:2181
