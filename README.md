@@ -1,4 +1,5 @@
-# api-gateway-center注册中心模块
+# api-gateway-sdk服务注册组件
+api-gateway-engine是一个用于启动网关算力服务的引擎工程，主要是负责工程的启动操作。
 一个自研的API网关，基于Netty、Zookeeper、Shrio、Dubbo、Docker、Dockerfile、Nginx。
 整个API网关设计的核心内容可以分为以下五块：
 
